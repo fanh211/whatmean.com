@@ -3,7 +3,7 @@
     <div class="container-fluid px-4 px-md-5 py-5">
       <div class="row">
         <div class="col-12 text-center mb-5">
-          <h1 class="display-4 fw-bold text-primary">关于我们</h1>
+          <h1 class="display-4 fw-bold text-primary">关于网站</h1>
           <p class="lead text-white-50 mt-3">何意味.com - 记录时代的网络文化符号</p>
         </div>
       </div>
@@ -13,7 +13,7 @@
           <div class="card border-0 liquid-glass-card">
             <div class="liquid-glass-card-hover">
               <div class="card-body p-5">
-                <h2 class="card-title text-primary mb-4">我们的使命</h2>
+                <h2 class="card-title text-primary mb-4">使命</h2>
                 <p class="card-text fs-5">
                   何意味.com致力于收集、整理和传播中国互联网上的各类热门梗、流行语和网络文化现象。
                   我们相信，每一个网络热梗都是时代文化的缩影，承载着特定时期人们的情感、态度和集体记忆。
@@ -30,7 +30,7 @@
 
       <div class="row mb-5">
         <div class="col-12">
-          <h2 class="text-center text-primary mb-4">我们的特色</h2>
+          <h2 class="text-center text-primary mb-4">特色</h2>
         </div>
         
         <div class="col-md-4 mb-4">
@@ -42,7 +42,7 @@
                     <path d="M2.5 3.5a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-11zm2-2a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1h-7zM0 13a1.5 1.5 0 0 0 1.5 1.5h13A1.5 1.5 0 0 0 16 13V6a1.5 1.5 0 0 0-1.5-1.5h-13A1.5 1.5 0 0 0 0 6v7zm1.5.5A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-13z"/>
                   </svg>
                 </div>
-                <h3 class="card-title text-center">全面收录</h3>
+                <h3 class="card-title text-center">收录</h3>
                 <p class="card-text text-center text-white-50">
                   涵盖从早期经典到最新流行的各类网络热梗，按时间线和类别整理
                 </p>
@@ -80,7 +80,7 @@
                 </div>
                 <h3 class="card-title text-center">社区参与</h3>
                 <p class="card-text text-center text-white-50">
-                  用户可以提交新发现的热梗，共同建设和完善百科内容
+                  用户可以提交新发现的热梗，共同建设和完善百科内容（需审核是否为合法内容）
                 </p>
               </div>
             </div>
@@ -90,9 +90,9 @@
 
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="text-primary mb-4">联系我们</h2>
+          <h2 class="text-primary mb-4">联系作者</h2>
           <p class="fs-5 text-white-50">
-            如果您有任何建议、合作意向或发现了我们遗漏的热梗，欢迎随时与我们联系
+            如果您有任何建议、合作意向或发现了遗漏的热梗，欢迎随时与作者联系
           </p>
           <div class="contact-info liquid-glass-card d-inline-block p-4">
             <div class="liquid-glass-card-hover">
