@@ -27,7 +27,17 @@
             <li class="mb-2"><a href="#" class="text-decoration-none text-white-50"> </a></li>
             <li class="mb-2"><a href="#" class="text-decoration-none text-white-50"> </a></li>
           </ul>
-          <div>
+            </div>
+        
+          <div class="col-lg-4 col-md-4">
+          <h4 class="h6 fw-bold text-uppercase text-white mb-3">订阅更新</h4>
+          <p class="text-white-50">订阅获取最新知识推送</p>
+          <div class="input-group mb-3 glass-input-group">
+            <input type="email" class="form-control" placeholder="您的邮箱地址" aria-label="您的邮箱地址">
+            <button class="btn btn-primary" type="button">订阅知识</button>
+          </div>
+        </div>
+      </div>
       <hr class="my-4">
       <div class="row align-items-center">
         <div class="col-md-6 text-center text-md-start">
