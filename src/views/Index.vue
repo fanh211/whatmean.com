@@ -25,9 +25,9 @@
               <button class="btn btn-outline-light btn-lg me-3 explore-btn" @click="exploreEntries">
                 浏览全部词条
               </button>
-              <button class="btn btn-outline-light btn-lg submit-btn">
+              <a href="https://github.com/Nico6719/whatmean.com" target="_blank" class="btn btn-outline-light btn-lg submit-btn">
                 提交新词条
-              </button>
+              </a>
             </div>
           </div>
         </div>

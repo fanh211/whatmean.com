@@ -27,6 +27,9 @@
               <li class="nav-item">
                 <router-link class="nav-link text-white" to="/about">关于</router-link>
               </li>
+              <li class="nav-item">
+                <router-link class="nav-link text-white" to="/friends">友情链接</router-link>
+              </li>
             </ul>
           </nav>
         </div>
@@ -99,8 +102,6 @@ export default {
   border-radius: 24px;
   color: white;
   transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  overflow: hidden;
-  position: relative;
 }
 
 .glass-search .btn:hover {
